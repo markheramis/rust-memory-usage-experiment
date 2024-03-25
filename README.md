@@ -28,10 +28,13 @@ To run the program:
 The program output provides insights into the memory usage of different data representations for the value '1'.
 
 ```bash
-Size of u32 value '1': 4 bytes
-Size of array of bits representing ASCII '1': 8 bytes
-Size of array of bools representing ASCII '1': 8 bytes
-Size of a single u8 variable is 1 bytes
+Size of u32 value '1': 4 bytes.
+Size of array of bits representing ASCII '1': 8 bytes.
+Size of array of bools representing ASCII '1': 8 bytes.
+Size of a single u8 variable is 1 bytes.
+Size of foo struct is 1 bytes.
+Size of foo2 struct is 2 bytes.
+Size of foo3 struct is 8 bytes.
 ```
 ## Author
 
